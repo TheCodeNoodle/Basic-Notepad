@@ -1,2 +1,2 @@
 # Basic-Notepad
-Just a basic notepad, nothing much
+A simple notepad application — still a work in progress. I’ll continue improving it after my vacation.
